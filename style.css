@@ -1,0 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+ background: #1f2235;
+ font-family: "Baloo Tamma 2", cursive;
+}
+
+/* Main Heading Font */
+.m-heading{
+ font-family: "Roboto Slab", serif;
+}
+
+/* Navigation */
+.navigation-link {
+ border: 2px solid transparent;
+}
+
+/* Main Container height*/
+.main-container {
+ height: 50vh;
+}
+
+/* About Section */
+.about {
+  background: #313552;
+  border-radius: 0.5rem;
+}
+
+/* Changing Name Font sixe */
+.main_row h1 {
+  font-size: 5rem;
+}
+
+.progress{
+  font-size: 1.4rem;
+}
